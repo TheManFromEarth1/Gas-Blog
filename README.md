@@ -1,138 +1,120 @@
-# Next js Blog Boilerplate
+# Gas Blog 
+## Basierend auf: Next js Blog Boilerplate
 
 <p align="center">
   <a href="https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/"><img src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Nextjs starter banner"></a>
 </p>
 
-🚀 Next.js Blog Boilerplate is starter code for your blog based on Next.js framework. ⚡️ Made with [Next.js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [ESLint](https://eslint.org), [Prettier](https://prettier.io), [PostCSS](https://postcss.org), [Tailwind CSS](https://tailwindcss.com).
+🚀 Next.js Gas Blog Boilerplate ist ein Starter Template für Blogs for your blog based on Next.js framework. ⚡️ Made with [Next.js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [ESLint](https://eslint.org), [Prettier](https://prettier.io), [PostCSS](https://postcss.org), [Tailwind CSS](https://tailwindcss.com).
 
 Clone this project and use it to create your own [Next.js](https://nextjs.org) blog. You can check a [Next js blog templates demo](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/).
 
-### Features
+### Funktionalitäten
+Blog Funktionalitäten:
 
-Blog feature:
-
-- 🎈 Syntax Highlighting with Prism.js
-- 🤖 SEO metadata and Open Graph tags
-- ⚙️ JSON-LD for richer indexing
+- 🎈 Highlight der Syntax mit Prism.js
+- 🤖 SEO Meta-Daten und Open Graph tags
+- ⚙️ JSON-LD für bessere Indexierung
 - 📖 Pagination
-- 🌈 Include a FREE minimalist blog theme
-- ⬇️ Markdown
-- 💯 Maximize lighthouse score
+- 🌈 Minimalistischer Blog Theme
+- ⬇️ [Markdown](https://de.wikipedia.org/wiki/Markdown) Support 
+- 💯 Top Geschwindigkeit - Super Lighthouse Bewertung 
 
-Developer experience first:
 
-- 🔥 [Next.js](https://nextjs.org) for Static Site Generator
-- 🎨 Integrate with [Tailwind CSS](https://tailwindcss.com)
-- 💅 [PostCSS](https://postcss.org) for processing [Tailwind CSS](https://tailwindcss.com)
-- 🎉 Type checking [TypeScript](https://www.typescriptlang.org)
-- ✏️ Linter with [ESLint](https://eslint.org)
-- 🛠 Code Formatter with [Prettier](https://prettier.io)
-- 🦊 SEO metadata, [JSON-LD](https://developers.google.com/search/docs/guides/intro-structured-data) and [Open Graph](https://ogp.me/) tags with [Next SEO](https://github.com/garmeeh/next-seo)
+- 🔥 [Next.js](https://nextjs.org) dient zur Generierung statischer Seiten
+- 🎨 Integriert mit dem CSS Framework [Tailwind CSS](https://tailwindcss.com)
+- 💅 [PostCSS](https://postcss.org) zum prozessieren von [Tailwind CSS](https://tailwindcss.com)
+- 🎉 Check der JavaScript Objekt-Typen mit [TypeScript](https://www.typescriptlang.org) Programmierung
+- ✏️ Linter mit [ESLint](https://eslint.org) - Hilft bei der Lösung von JavaSkript Fehlern.
+- 🛠 Code Formattierung mit [Prettier](https://prettier.io)
+- 🦊 SEO Meta-Daten, [JSON-LD](https://developers.google.com/search/docs/guides/intro-structured-data) und [Open Graph](https://ogp.me/) getagged mit [Next SEO](https://github.com/garmeeh/next-seo)
 - ⚙️ [Bundler Analyzer](https://www.npmjs.com/package/@next/bundle-analyzer)
 
-Built-in feature from Next.js:
+Funktionalitäten die schon von Next.js gegeben sind:
 
 - ☕ Minify HTML & CSS
 - 💨 Live reload
 - ✅ Cache busting
 
-### Philosophy
+### Philosophie
 
-- Minimal code
+- Minimaler Code
 - SEO-friendly
-- 🚀 Production-ready
+- 🚀 Produktions-ready
 
-### Requirements
+### Vorraussetzungen
 
-- Node.js and npm
+- Ein Node.js Server und npm
 
-### Premium Themes ([Nextjs Themes](https://creativedesignsguru.com/category/nextjs/))
+### Anleitung
 
-| [Blue Dark Nextjs Theme](https://creativedesignsguru.com/blue-dark-nextjs-theme/) | [Blue Eclatant Nextjs Theme](https://creativedesignsguru.com/blue-eclatant-nextjs-theme/) |
-| --- | --- |
-| [![Blue Dark Nextjs Theme premium](https://creativedesignsguru.com/assets/images/themes/blue-dark-mode-nextjs-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-dark-nextjs-theme/) | [![Blue Eclatant Nextjs Theme premium](https://creativedesignsguru.com/assets/images/themes/eclatant-blue-nextjs-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-eclatant-nextjs-theme/) |
-
-| [Blue Modern Nextjs Theme](https://creativedesignsguru.com/blue-modern-nextjs-theme/) | [Blue Minimalist Nextjs Theme](https://creativedesignsguru.com/blue-minimalist-nextjs-theme/) |
-| --- | --- |
-| [![Blue Modern Nextjs Theme premium](https://creativedesignsguru.com/assets/images/themes/modern-blue-nextjs-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-modern-nextjs-theme/) | [![Blue Minimalist Nextjs Theme premium](https://creativedesignsguru.com/assets/images/themes/minimalist-blue-nextjs-theme-homepage-xs.png)](https://creativedesignsguru.com/blue-minimalist-nextjs-theme/) |
-
-### Getting started
-
-Run the following command on your local environment:
+Folgenden Code in der lokal Entwicklungsumgebung eingeben :
 
 ```
-git clone --depth=1 https://github.com/ixartz/Next-js-Blog-Boilerplate.git my-project-name
+git clone --depth=1 https://github.com/TheManFromEarth1/Gas-Blog my-project-name
 cd my-project-name
 npm install
 ```
 
-Then, you can run locally in development mode with live reload:
+Dann kannst du lokal Entwicklen mit Live Reload: 
 
 ```
 npm run dev
 ```
 
-Open http://localhost:8080 with your favorite browser to see your project.
+Öffne http://localhost:8080 in deinem Browser um das Projekt zu sehen
 
 ```
 .
-├── _posts            # Your blog posts
-├── public            # Static files
+├── _posts            # Deine Blog Artikel
+├── public            # Statische Dateien
 │   ├── assets
 │   │   └── images
-│   │       └── posts # Images used in your blog posts
+│   │       └── posts # Im Blog genutzte Fotos
 └── src
-    ├── pages         # Next.js pages
-    ├── styles        # Your blog CSS files
-    └── templates     # Blog templates
+    ├── pages         # Next.js Seiten
+    ├── styles        # CSS Dateien
+    └── templates     # Blog Templates
 ```
 
-### Customization
+### Anpassungen machen
 
-You can easily configure Next js Boilerplate. Please change the following file:
+Die Konfiguration ist ganz einfach mit dem Next js Boilerplate. Ändere dazu folgende Dateien:
 
-- `public/apple-touch-icon.png`, `public/favicon.ico`, `public/favicon-16x16.png` and `public/favicon-32x32.png`: your blog favicon, you can generate from https://favicon.io/favicon-converter/
-- `public/assets/images/logo.png`, `public/assets/images/logo-32x32.png`: your blog logo
-- `src/styles/main.css`: your blog CSS file using Tailwind CSS
-- `src/utils/Config.ts`: configuration file like blog name, url, etc.
-- `src/templates/Main.tsx`: blog theme
+- `public/apple-touch-icon.png`, `public/favicon.ico`, `public/favicon-16x16.png` und `public/favicon-32x32.png`: dein Blog favicon, kann genereriert werden von https://favicon.io/favicon-converter/
+- `public/assets/images/logo.png`, `public/assets/images/logo-32x32.png`: dein Blog Logo
+- `src/styles/main.css`: deine Blog-CSS Datei, basierend auf das Tailwind CSS Framework
+- `src/utils/Config.ts`: Konfigurations-Datei mit Blog Name, URL, usw. 
+- `src/templates/Main.tsx`: Blog Theme
 
-### Deploy to production
+### Auf einem Nodejs Server online hochladen
 
-You can see the results locally in production mode with:
+Die Resultate kann man lokal einsehen mit:
 
 ```
 $ npm run build
 $ npm run start
 ```
 
-The generated HTML and CSS files are minified (built-in feature from Next js). It will also removed unused CSS from [Tailwind CSS](https://tailwindcss.com).
+Die generierten HTML und CSS Dateien werden automatisch minifiziert. (Feature eingebaut in Next js). Unnötiger CSS Code von [Tailwind CSS](https://tailwindcss.com) wird auch entfernt, so dass die Produktions-Dateien klein wie möglich bleiben.
 
-You can create an optimized production build with:
+Eine optimierte Ausgabe kann generiert werden mit:
 
 ```
 npm run build-prod
 ```
 
-Now, your blog is ready to be deployed. All generated files are located at `dist` folder, which you can deploy with any hosting service.
+Nun ist der Blog fertig zum hochladen. Alle generierten Dateien sind im `dist` Ordner, welche beim NodeJS Hosting-Anbieter hochgeladen werden können.
 
-### Deploy to Netlify
+### Templates
+#### Standart Template
+#### Gas Blog
 
-Clone this repository on own GitHub account and deploy to Netlify:
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ixartz/Next-js-Blog-Boilerplate)
+### Lizenz
+Lizenziert unter der MIT Lizenz, Copyright © 2020
 
-### Contributions
-
-Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
-
-### License
-
-Licensed under the MIT License, Copyright © 2020
-
-See [LICENSE](LICENSE) for more information.
+Siehe [LICENSE](LICENSE) für mehr Informationen.
 
 ---
-
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com)
+Basierend auf dem Boilerplate Theme von [CreativeDesignsGuru](https://creativedesignsguru.com)
