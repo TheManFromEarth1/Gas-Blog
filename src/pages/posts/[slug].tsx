@@ -45,6 +45,15 @@ const DisplayPost = (props: IPostProps) => (
         dangerouslySetInnerHTML={{ __html: props.content }}
       />
     </Content>
+
+    <aside>
+      <img
+        src="/assets/images/posts/hilda-wagner.jpeg"
+        alt="Hilda Wagner"
+        className="w-20 h-20 rounded-full"
+      />
+      Autor: Hilda Wagner
+    </aside>
   </Main>
 );
 
