@@ -1,5 +1,6 @@
 # Gas Blog 
-## Basierend auf: Next js Blog Boilerplate
+## Minimal Boilerplate basierend auf Next JS
+### Mit Tailwind CSS
 
 <p align="center">
   <a href="https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/"><img src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Nextjs starter banner"></a>
