@@ -10,14 +10,12 @@ import { Config } from '../utils/Config';
 import { getAllPosts } from '../utils/Content';
 
 const Index = (props: IBlogGalleryProps) => (
-  <Main
-    meta={(
-      <Meta
-        title="Made with Next.js, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS"
-        description={Config.description}
-      />
-    )}
-  >
+  <Main meta={<Meta title="Übersicht" description={Config.description} />}>
+    <img
+      src="/assets/images/posts/landschaft2.png"
+      className="p-4 mb-4 border-2"
+      alt="Grüne Landschaft"
+    />
     <BlogGallery posts={props.posts} pagination={props.pagination} />
   </Main>
 );

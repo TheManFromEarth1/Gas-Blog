@@ -36,9 +36,7 @@ const Main = (props: IMainProps) => (
 
       <div className="text-xl py-5">{props.children}</div>
 
-      <div className="border-t border-gray-300 text-center py-8">
-        <a href="https://www.originalenergie.de/blog/">ORIGINAL ENERGIE Blog</a>
-      </div>
+      <div className="border-t border-gray-300 text-center py-8">{/* Footer */}</div>
     </div>
   </div>
 );
