@@ -5,7 +5,7 @@
   <a href="https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/"><img src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Nextjs starter banner"></a>
 </p>
 
-🚀 Next.js Gas Blog Boilerplate ist ein Starter Template für Blogs for your blog based on Next.js framework. ⚡️ Made with [Next.js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [ESLint](https://eslint.org), [Prettier](https://prettier.io), [PostCSS](https://postcss.org), [Tailwind CSS](https://tailwindcss.com).
+🚀 Next.js Gas Blog Boilerplate ist ein Starter Template für Blogs for your blog based on Next.js framework. ⚡️ Erstellt mit [Next.js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [ESLint](https://eslint.org), [Prettier](https://prettier.io), [PostCSS](https://postcss.org), [Tailwind CSS](https://tailwindcss.com).
 
 Dieses Projekt kann gekloned werden um ein eigenen [Next.js](https://nextjs.org) Blog zu erstellen. Demos können [hier](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) oder [bei dem Gas-Blog](https://gas-blog.netlify.app) angesehen werden.
 
